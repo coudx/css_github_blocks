@@ -1,0 +1,23 @@
+div {
+    text-align: center;
+    margin: 20px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-color: white;
+}
+
+.l1 {
+    background: rgb(55, 247, 49);
+}
+
+.l2 {
+    background: aquamarine;
+}
+
+.l3 {
+    background: violet;
+}
